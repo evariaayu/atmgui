@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=gui
+comment0.target=LogPanel(GUI)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ gui\ the\ the\ overall\ GUI\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=text
+comment3.target=void\ println(java.lang.String)
+comment3.text=\ Add\ text\ to\ the\ log\r\n\r\n\ \ @param\ text\ the\ text\ to\ be\ printed\r\n
+numComments=4

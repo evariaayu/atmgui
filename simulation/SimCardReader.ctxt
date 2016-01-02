@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=simulation
+comment0.target=SimCardReader(Simulation)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ simulation\ the\ Simulation\ object\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

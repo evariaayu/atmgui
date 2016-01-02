@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CustomerConsole()
+comment0.text=\ Constructor\r\n
+comment1.params=message
+comment1.target=void\ display(java.lang.String)
+comment1.text=\ Display\ a\ message\ to\ the\ customer\r\n\r\n\ \ @param\ message\ the\ message\ to\ display\r\n
+comment2.params=prompt
+comment2.target=int\ readPIN(java.lang.String)
+comment2.text=\ Read\ a\ PIN\ entered\ by\ the\ customer\ (echoed\ as\ asterisks)\r\n\r\n\ \ @param\ prompt\ the\ message\ to\ display\ prompting\ the\ customer\ to\ enter\ PIN\r\n\ \ @return\ the\ PIN\ that\ was\ entered\r\n\ \ @exception\ Cancelled\ if\ customer\ presses\ the\ CANCEL\ key\ before\ pressing\ ENTER\r\n
+comment3.params=prompt\ menu
+comment3.target=int\ readMenuChoice(java.lang.String,\ java.lang.String[])
+comment3.text=\ Display\ a\ menu\ of\ options\ and\ return\ choice\ made\ by\ customer\r\n\r\n\ \ @param\ prompt\ message\ to\ display\ before\ the\ list\ of\ options\r\n\ \ @param\ menu\ the\ options\r\n\ \ @return\ the\ number\ of\ the\ option\ chosen\ (0\ ..\ \#\ of\ options\ -\ 1)\r\n\ \ Note\:\ the\ options\ are\ numbered\ 1\ ..\ \#\ of\ options\ when\ displayed\ for\ the\r\n\ \ customer\ -\ but\ the\ menu\ array\ indices\ and\ the\ final\ result\ returned\ are\ in\r\n\ \ the\ range\ 0\ ..\ \#\ of\ options\ -\ 1\r\n\r\n\ \ @exception\ Cancelled\ if\ customer\ presses\ the\ CANCEL\ key\ before\ choosing\ option\r\n
+comment4.params=prompt
+comment4.target=java.lang.String\ phoneNumber(java.lang.String)
+comment4.text=\r\n\ Untuk\ membaca\ no\ handphone\ saat\ membeli\ pulsa\r\n
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=message\ balances
+comment0.target=banking.Status\ handleMessage(banking.Message,\ banking.Balances)
+comment0.text=\ Simulate\ the\ handling\ of\ a\ message\r\n\r\n\ \ @param\ message\ the\ message\ to\ send\r\n\ \ @param\ balances\ (out)\ balances\ in\ customer's\ account\ as\ reported\r\n\ \ \ \ \ \ \ \ \ by\ bank\r\n\ \ @return\ status\ code\ returned\ by\ bank\r\n
+numComments=1

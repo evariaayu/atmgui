@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BillsPanel()
+comment0.text=\ Constructor\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=int\ readBills()
+comment2.text=\ Ask\ the\ operator\ to\ enter\ the\ number\ of\ bills\ in\ the\ cash\ dispenser\r\n\r\n\ \ @return\ the\ number\ entered\r\n
+numComments=3

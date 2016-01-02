@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dollars
+comment0.target=Money(int)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ dollars\ whole\ dollar\ amount\r\n
+comment1.params=dollars\ cents
+comment1.target=Money(int,\ int)
+comment1.text=\ Constructor\r\n\r\n\ \ @param\ dollars\ dollar\ part\ of\ amount\r\n\ \ @param\ cents\ cents\ part\ of\ amount\r\n
+comment2.params=toCopy
+comment2.target=Money(Money)
+comment2.text=\ Copy\ constructor\r\n\r\n\ \ @param\ toCopy\ the\ Money\ object\ to\ copy\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ Create\ a\ string\ representation\ of\ this\ amount\r\n\r\n\ \ @return\ string\ representation\ of\ this\ amount\r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimCashDispenser()
+comment0.text=\ Constructor\r\n
+comment1.params=amount
+comment1.target=void\ animateDispensingCash(banking.Money)
+comment1.text=\ Animate\ dispensing\ cash\ to\ a\ customer\r\n\r\n\ \ @param\ amount\ the\ amount\ of\ cash\ to\ dispense\r\n\r\n\ \ Precondition\:\ amount\ is\ <\=\ cash\ on\ hand\r\n
+numComments=2

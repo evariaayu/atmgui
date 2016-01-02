@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Log()
+comment0.text=\ Constructor\r\n
+comment1.params=message
+comment1.target=void\ logSend(banking.Message)
+comment1.text=\ Log\ the\ sending\ of\ a\ message\ to\ the\ bank\r\n\r\n\ \ @param\ message\ the\ message\ to\ be\ logged\r\n
+comment2.params=response
+comment2.target=void\ logResponse(banking.Status)
+comment2.text=\ Log\ a\ response\ received\ from\ a\ message\r\n\r\n\ \ @param\ status\ the\ status\ object\ returned\ by\ the\ bank\ in\ response\r\n
+comment3.params=amount
+comment3.target=void\ logCashDispensed(banking.Money)
+comment3.text=\ Log\ the\ dispensing\ of\ cash\ by\ the\ cash\ dispenser\r\n\r\n\ \ @param\ amount\ jumlah\ uang\ yang\ dikeluarkan\r\n
+comment4.params=
+comment4.target=void\ logEnvelopeAccepted()
+comment4.text=\ Log\ accepting\ an\ envelope.\ \ This\ method\ is\ only\ called\ if\ an\ envelope\r\n\ \ is\ actually\ received\ from\ the\ customer\r\n
+numComments=5

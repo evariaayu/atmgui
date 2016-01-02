@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=display\ envelopeAcceptor
+comment0.target=SimKeyboard(SimDisplay,\ SimEnvelopeAcceptor)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ display\ the\ display\ on\ which\ to\ echo\ typed\ input\r\n\ \ @param\ envelopeAcceptor\ -\ to\ be\ notified\ if\ cancel\ is\ pressed\r\n
+numComments=1

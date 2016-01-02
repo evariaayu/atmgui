@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=atm
+comment0.target=OperatorPanel(atm.ATM)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ atm\ the\ ATM\ this\ panel\ is\ part\ of\r\n
+numComments=1

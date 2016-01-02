@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CardPanel()
+comment0.text=\ Constructor\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=int\ readCardNumber()
+comment2.text=\ Ask\ the\ customer\ to\ enter\ the\ number\ on\ the\ card\r\n\r\n\ \ @return\ the\ number\ entered\r\n
+numComments=3
