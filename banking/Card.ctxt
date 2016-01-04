@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=Card(int)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ number\ the\ card\ number\r\n
+comment1.params=
+comment1.target=int\ getNumber()
+comment1.text=\ Accessor\ for\ number\r\n\r\n\ \ @return\ the\ number\ of\ the\ card\r\n
+numComments=2
