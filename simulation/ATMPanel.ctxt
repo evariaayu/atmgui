@@ -1,5 +1,2 @@
 #BlueJ class context
-comment0.params=gui\ operatorPanel\ cardReader\ display\ keyboard\ cashDispenser\ envelopeAcceptor\ receiptPrinter
-comment0.target=ATMPanel(GUI,\ SimOperatorPanel,\ SimCardReader,\ SimDisplay,\ SimKeyboard,\ SimCashDispenser,\ SimEnvelopeAcceptor,\ SimReceiptPrinter)
-comment0.text=\ Constructor\r\n\r\n\ \ @param\ gui\ the\ the\ overall\ GUI\r\n\ \ @param\ operatorPanel\ the\ simulation\ of\ the\ card\ reader\r\n\ \ @param\ cardReader\ the\ simulation\ of\ the\ card\ reader\r\n\ \ @param\ display\ the\ simulation\ of\ the\ display\r\n\ \ @param\ keyboard\ the\ simulation\ of\ the\ keyboard\r\n\ \ @param\ cashDispenser\ the\ simulation\ of\ the\ cash\ dispenser\r\n\ \ @param\ receiptPrinter\ the\ simulation\ of\ the\ receipt\ printer\r\n
-numComments=1
+numComments=0
