@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ReceiptPrinter()
+comment0.text=\ Constructor\r\n
+comment1.params=receipt
+comment1.target=void\ printReceipt(banking.Receipt)
+comment1.text=\ Print\ a\ receipt\r\n\r\n\ \ @param\ receipt\ object\ containing\ the\ information\ to\ be\ printed\r\n
+numComments=2

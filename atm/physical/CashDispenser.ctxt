@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=log
+comment0.target=CashDispenser(Log)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ log\ the\ log\ in\ which\ to\ record\ dispensing\ cash\r\n
+comment1.params=initialCash
+comment1.target=void\ setInitialCash(banking.Money)
+comment1.text=\ Set\ the\ amount\ of\ cash\ initially\ on\ hand\ \r\n\r\n\ \ @param\ initialCash\ the\ amount\ of\ money\ in\ the\ dispenser\r\n
+comment2.params=amount
+comment2.target=boolean\ checkCashOnHand(banking.Money)
+comment2.text=\ See\ if\ there\ is\ enough\ cash\ on\ hand\ to\ satisfy\ a\ request\r\n\r\n\ \ @param\ amount\ the\ amount\ of\ cash\ the\ customer\ wants\r\n\ \ @return\ true\ if\ at\ least\ this\ amount\ of\ money\ is\ available\r\n
+comment3.params=amount
+comment3.target=void\ dispenseCash(banking.Money)
+comment3.text=\ Dispense\ cash\ to\ a\ customer\r\n\r\n\ \ @param\ amount\ the\ amount\ of\ cash\ to\ dispense\r\n\r\n\ \ Precondition\:\ amount\ is\ <\=\ cash\ on\ hand\r\n
+numComments=4

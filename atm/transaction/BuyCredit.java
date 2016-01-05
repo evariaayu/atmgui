@@ -72,7 +72,10 @@ public class BuyCredit extends Transaction
                                     new Money(100000), new Money(150000)
                                 };
         String amountMessage ="";
-        boolean validAmount = false;
+        amount = amountValues [
+                        atm.getCustomerConsole().readMenuChoice(
+                        amountMessage + "Amount of cash to buy credits", amountOptions)];
+        /*boolean validAmount = false;
         
         while(!validAmount)
         {
@@ -86,7 +89,7 @@ public class BuyCredit extends Transaction
                 amountMessage = "Insufficient cash available\n";
             }
             
-        }
+        }*/
         
         return new Message(Message.BUYCREDIT, card, pin, serialNumber,
                             from, -1, amount);

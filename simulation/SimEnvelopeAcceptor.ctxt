@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimEnvelopeAcceptor()
+comment0.text=\ Constructor\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=boolean\ acceptEnvelope()
+comment2.text=\ Simulate\ accepting\ an\ envelope\ from\ customer.\r\n\r\n\ \ return\ true\ if\ an\ envelope\ was\ received\ within\ the\ prescribed\ time,\r\n\ \ \ \ \ \ \ \ \ else\ false\r\n
+numComments=3

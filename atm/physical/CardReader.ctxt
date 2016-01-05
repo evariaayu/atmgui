@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=atm
+comment0.target=CardReader(atm.ATM)
+comment0.text=\ Constructor\r\n\r\n\ \ @param\ atm\ the\ ATM\ that\ owns\ this\ card\ reader\r\n
+numComments=1
